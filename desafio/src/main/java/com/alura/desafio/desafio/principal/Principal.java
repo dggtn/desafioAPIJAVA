@@ -1,7 +1,7 @@
-package com.alura.desafio.principal;
+package com.alura.desafio.desafio.principal;
 
-import com.alura.desafio.service.ConsumoAPI;
-import com.alura.desafio.service.ConvierteDatos;
+import com.alura.desafio.desafio.service.ConsumoAPI;
+import com.alura.desafio.desafio.service.ConvierteDatos;
 
 public class Principal {
     private static final String URL_BASE = "https://gutendex.com/books/";

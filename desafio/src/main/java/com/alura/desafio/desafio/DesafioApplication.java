@@ -1,3 +1,5 @@
+package com.alura.desafio.desafio;
+
 import com.alura.desafio.desafio.principal.Principal;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
